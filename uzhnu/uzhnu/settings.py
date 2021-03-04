@@ -64,7 +64,7 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'uzhnu.pipelines.UzhnuPipeline': 300,
-   'uzhnu.pipelines.DuplicatFilterPipline': 400,
+   'uzhnu.pipelines.DuplicatFilterPipeline': 400,
    'uzhnu.pipelines.SqlitePipeline': 500,
 }
 
