@@ -42,6 +42,7 @@ class SqlitePipeline:
     def close_spider(self, spider):
         self.connection.close()
 
+
 class DuplicatFilterPipeline:
 
     def __init__(self, file_name):
@@ -65,4 +66,3 @@ class DuplicatFilterPipeline:
 
     def close_spider(self, spider):
         self.connection.close()
-        
