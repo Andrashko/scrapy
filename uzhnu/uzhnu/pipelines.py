@@ -1,10 +1,3 @@
-# Define your item pipelines here
-#
-# Don't forget to add your pipeline to the ITEM_PIPELINES setting
-# See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-
-
-# useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from sqlite3 import connect 
 from scrapy.exceptions import DropItem
@@ -26,9 +19,8 @@ class UzhnuPipeline:
         print(f"{self.number} items have been processed")
 
 
-
-
 class SqlitePipeline:
+    
     def __init__(self, file_name):
         self.file_name = file_name
 
@@ -73,3 +65,4 @@ class DuplicatFilterPipeline:
 
     def close_spider(self, spider):
         self.connection.close()
+        
