@@ -26,9 +26,7 @@ class SqlitePipeline:
 
     @classmethod
     def from_crawler(cls, crawler):
-        return cls(
-            file_name=crawler.settings.get("DB_FILE_NAME")
-        )
+        return cls(file_name=crawler.settings.get("DB_FILE_NAME"))
 
     def open_spider(self, spider):
         self.connection = connect(self.file_name)
@@ -50,9 +48,7 @@ class DuplicatFilterPipeline:
 
     @classmethod
     def from_crawler(cls, crawler):
-        return cls(
-            file_name=crawler.settings.get("DB_FILE_NAME")
-        )
+        return cls(file_name=crawler.settings.get("DB_FILE_NAME"))
 
     def open_spider(self, spider):
         self.connection = connect(self.file_name)

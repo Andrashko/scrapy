@@ -1,0 +1,120 @@
+{'model': 'Apple MacBook Air 13" Space Gray Late 2020 (MGN63)', 'price': '35612', 'img_url': 'https://hotline.ua//img/tx/242/242522584_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray Late 2020 (MYD82)', 'price': '41430', 'img_url': 'https://hotline.ua//img/tx/242/242534311_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray 2020 (MWTJ2)', 'price': '30953', 'img_url': 'https://hotline.ua//img/tx/228/228960094_s265.jpg'}
+{'model': 'ASUS TUF Dash F15 FX516PR Eclipse Gray (FX516PR-HN002)', 'price': '55849', 'img_url': 'https://hotline.ua//img/tx/261/261532402_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray 2020 (MXK32)', 'price': '34150', 'img_url': 'https://hotline.ua//img/tx/227/227100717_s265.jpg'}
+{'model': 'ASUS TUF Gaming A15 FA506QR (FA506QR-AZ001)', 'price': '59885', 'img_url': 'https://hotline.ua//img/tx/260/260503444_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 16 Ryzen 5 16/512GB Radeon RX Vega (JYU4277CN)', 'price': '22632', 'img_url': 'https://hotline.ua//img/tx/238/238210388_s265.jpg'}
+{'model': 'Apple MacBook Pro 16" Space Gray 2019 (MVVJ2)', 'price': '77610', 'img_url': 'https://hotline.ua//img/tx/212/212779995_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray Late 2020 (Z11B000E3, Z11B0004T, Z11B000Q8)', 'price': '60136', 'img_url': 'https://hotline.ua//img/tx/244/244282283_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray Late 2020 (MGN73)', 'price': '40934', 'img_url': 'https://hotline.ua//img/tx/242/242527741_s265.jpg'}
+{'model': 'ASUS ROG Zephyrus G14 GA401IV (GA401IV-BR9N6)', 'price': '43731', 'img_url': 'https://hotline.ua//img/tx/259/259878244_s265.jpg'}
+{'model': 'Apple MacBook Pro 16" Space Gray 2019 (MVVK2)', 'price': '88195', 'img_url': 'https://hotline.ua//img/tx/212/212780031_s265.jpg'}
+{'model': 'ASUS X509UB Slate Grey (X509UB-BQ077)', 'price': '16945', 'img_url': 'https://hotline.ua//img/tx/264/264643996_s265.jpg'}
+{'model': 'Xiaomi Mi Notebook Pro 15.6 i7 10th 16/1TB MX350 (JYU4222CN)', 'price': '33016', 'img_url': 'https://hotline.ua//img/tx/238/238226114_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray 2020 (MWP42)', 'price': '56154', 'img_url': 'https://hotline.ua//img/tx/227/227100773_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray Late 2020 (Z124000FK)', 'price': '51934', 'img_url': 'https://hotline.ua//img/tx/244/244282742_s265.jpg'}
+{'model': 'Lenovo Legion 5 15ARH05H Phantom Black (82B1008HRA)', 'price': '32514', 'img_url': 'https://hotline.ua//img/tx/262/262498385_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray Late 2020 (MYD92)', 'price': '47718', 'img_url': 'https://hotline.ua//img/tx/242/242535702_s265.jpg'}
+{'model': 'Xiaomi Mi Notebook Pro 15.6 i7 10th 16/1TB MX250 (JYU4191CN)', 'price': '30969', 'img_url': 'https://hotline.ua//img/tx/238/238226123_s265.jpg'}
+{'model': 'ASUS X509UB Slate Grey (X509UB-BQ084)', 'price': '16608', 'img_url': 'https://hotline.ua//img/tx/265/265968685_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 16 Ryzen 5 8/512GB Radeon RX Vega (JYU4275CN)', 'price': '19847', 'img_url': 'https://hotline.ua//img/tx/238/238210410_s265.jpg'}
+{'model': 'Acer Predator Helios 300 PH315-53-72XD (NH.Q7YAA.004)', 'price': '36416', 'img_url': 'https://hotline.ua//img/tx/259/259354590_s265.jpg'}
+{'model': 'MSI GF65 Thin 10UE (GF65 10UE-052XPL)', 'price': '39499', 'img_url': 'https://hotline.ua//img/tx/267/267066469_s265.jpg'}
+{'model': 'Xiaomi Mi Notebook Pro 15.6 i5 10th 8/512GB MX250 (JYU4159CN)', 'price': '25804', 'img_url': 'https://hotline.ua//img/tx/238/238226163_s265.jpg'}
+{'model': 'ASUS ROG Strix G GL531GU (GL531GU-WB53)', 'price': '28915', 'img_url': 'https://hotline.ua//img/tx/266/266297375_s265.jpg'}
+{'model': 'Apple MacBook Air 13" (MQD32) 2017', 'price': '24987', 'img_url': 'https://hotline.ua//img/tx/158/158239907_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 Ryzen 7 16/512GB Radeon Vega 10 Silver (JYU4209CN)', 'price': '19076', 'img_url': 'https://hotline.ua//img/tx/238/238226709_s265.jpg'}
+{'model': 'ASUS TUF Gaming A17 FA706QR (FA706QR-HX004T)', 'price': '58554', 'img_url': 'https://hotline.ua//img/tx/261/261317449_s265.jpg'}
+{'model': 'ASUS VivoBook 15 M513IA (M513IA-BQ143)', 'price': '21017', 'img_url': 'https://hotline.ua//img/tx/261/261094747_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray 2019 (MUHN2)', 'price': '35553', 'img_url': 'https://hotline.ua//img/tx/228/228957374_s265.jpg'}
+{'model': 'HP OMEN 15-en0005ns (13D25EA)', 'price': '35358', 'img_url': 'https://hotline.ua//img/tx/264/264606013_s265.jpg'}
+{'model': 'ASUS ROG Zephyrus M15 GU502LW (GU502LW-BI7N6)', 'price': '47768', 'img_url': 'https://hotline.ua//img/tx/267/267046031_s265.jpg'}
+{'model': 'Lenovo Legion 5 15 (82B500AHPB)', 'price': '27335', 'img_url': 'https://hotline.ua//img/tx/244/244672478_s265.jpg'}
+{'model': 'ASUS X509JA (X509JA-BQ012)', 'price': '16561', 'img_url': 'https://hotline.ua//img/tx/261/261939673_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray Late 2020 (Z11C000E4)', 'price': '71153', 'img_url': 'https://hotline.ua//img/tx/244/244282491_s265.jpg'}
+{'model': 'Lenovo IdeaPad Gaming 3 15ARH05 (82EY00GPRA)', 'price': '24999', 'img_url': 'https://hotline.ua//img/tx/265/265968688_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray 2018 (MRE82, 5RE82)', 'price': '24730', 'img_url': 'https://hotline.ua//img/tx/182/182109836_s265.jpg'}
+{'model': 'Lenovo ThinkBook 14 G2 ARE Mineral Grey (20VF0035RA)', 'price': '16399', 'img_url': 'https://hotline.ua//img/tx/266/266808915_s265.jpg'}
+{'model': 'ASUS ROG Strix G17 G713QR (G713QR-HG021T)', 'price': '74436', 'img_url': 'https://hotline.ua//img/tx/265/265818357_s265.jpg'}
+{'model': 'Apple MacBook Pro 13" Space Gray (MPXQ2, 5PXQ2) 2017', 'price': '30756', 'img_url': 'https://hotline.ua//img/tx/153/153476377_s265.jpg'}
+{'model': 'ASUS VivoBook 15 K513EQ Transparent Silver (K513EQ-BQ028)', 'price': '25941', 'img_url': 'https://hotline.ua//img/tx/266/266523258_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 Ryzen 7 8/512GB Radeon Vega10 Silver (JYU4212CN)', 'price': '18159', 'img_url': 'https://hotline.ua//img/tx/264/264095315_s265.jpg'}
+{'model': 'Lenovo IdeaPad 5 15ARE Platinum Grey (81YQ00DYRA)', 'price': '18863', 'img_url': 'https://hotline.ua//img/tx/266/266716548_s265.jpg'}
+{'model': 'Acer Nitro 5 AN515-54-5812 (NH.Q59AA.002)', 'price': '24099', 'img_url': 'https://hotline.ua//img/tx/266/266079751_s265.jpg'}
+{'model': 'Lenovo Legion 5 15 (82B1007BPB)', 'price': '35855', 'img_url': 'https://hotline.ua//img/tx/244/244662513_s265.jpg'}
+{'model': 'HP OMEN 15-en0013dx (2V926UA)', 'price': '33551', 'img_url': 'https://hotline.ua//img/tx/263/263093218_s265.jpg'}
+{'model': 'Lenovo ThinkBook 15 G2 ARE Mineral Grey (20VG006JRA)', 'price': '20121', 'img_url': 'https://hotline.ua//img/tx/266/266129162_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray 2020 (MVH22)', 'price': '33742', 'img_url': 'https://hotline.ua//img/tx/228/228960084_s265.jpg'}
+{'model': 'Xiaomi Mi Gaming Laptop 15.6 Black (JYU4146CN)', 'price': '28962', 'img_url': 'https://hotline.ua//img/tx/238/238228175_s265.jpg'}
+{'model': 'HP OMEN 15-DC1040 (6EU00UA)', 'price': '39749', 'img_url': 'https://hotline.ua//img/tx/265/265411848_s265.jpg'}
+{'model': 'Acer Nitro 5 AN517-51-76V6 (NH.Q9BAA.001)', 'price': '36646', 'img_url': 'https://hotline.ua//img/tx/266/266837672_s265.jpg'}
+{'model': 'MSI GP66 Leopard 10UH (10UH-201PL)', 'price': '76199', 'img_url': 'https://hotline.ua//img/tx/262/262231030_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 II i5 10th 16/512Gb/MX350 Silver (JYU4307CN)', 'price': '22106', 'img_url': 'https://hotline.ua//img/tx/238/238227454_s265.jpg'}
+{'model': 'ASUS VivoBook 15 K513EQ Indie Black (K513EQ-BQ027)', 'price': '25959', 'img_url': 'https://hotline.ua//img/tx/263/263469774_s265.jpg'}
+{'model': 'Lenovo V15-ADA Iron Grey (82C70010RA)', 'price': '14918', 'img_url': 'https://hotline.ua//img/tx/266/266291297_s265.jpg'}
+{'model': 'Lenovo Legion 5 15ARH05H Phantom Black (82B1008GRA)', 'price': '31312', 'img_url': 'https://hotline.ua//img/tx/266/266333321_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 13 Ryzen 7 16/1TGB Radeon RX Vega7 Grey (JYU4266CN)', 'price': '23204', 'img_url': 'https://hotline.ua//img/tx/238/238232933_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray Late 2020 (Z125000DL)', 'price': '60730', 'img_url': 'https://hotline.ua//img/tx/244/244283593_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 16 i5 10th 16/512Gb/MX350 (JYU4285CN)', 'price': '24104', 'img_url': 'https://hotline.ua//img/tx/238/238210333_s265.jpg'}
+{'model': 'Vinga Iron S140 (S140-P508256G)', 'price': '12007', 'img_url': 'https://hotline.ua//img/tx/230/230014780_s265.jpg'}
+{'model': 'HUAWEI MateBook D 15 Space Gray (53010TSY)', 'price': '17986', 'img_url': 'https://hotline.ua//img/tx/234/234373408_s265.jpg'}
+{'model': 'ASUS E410MA (E410MA-EB268)', 'price': '11261', 'img_url': 'https://hotline.ua//img/tx/264/264470236_s265.jpg'}
+{'model': 'ASUS VivoBook S14 M433IA (M433IA-HM493)', 'price': '24899', 'img_url': 'https://hotline.ua//img/tx/262/262356772_s265.jpg'}
+{'model': 'Lenovo IdeaPad Gaming 3 15ARH05 Chameleon Blue (82EY00GKRA)', 'price': '21999', 'img_url': 'https://hotline.ua//img/tx/263/263063956_s265.jpg'}
+{'model': 'Razer Blade 15 (RZ09-03289E21-R3U1)', 'price': '43846', 'img_url': 'https://hotline.ua//img/tx/262/262379291_s265.jpg'}
+{'model': 'MSI GP66 Leopard 10UE (10UE-202PL)', 'price': '55100', 'img_url': 'https://hotline.ua//img/tx/262/262231006_s265.jpg'}
+{'model': 'EVOO Chrome Book (EV-CH-116-1-BK)', 'price': '3992', 'img_url': 'https://hotline.ua//img/tx/266/266969605_s265.jpg'}
+{'model': 'Microsoft Surface Laptop 3 (VGY-00008, VGY-00004, VGY-00001)', 'price': '24871', 'img_url': 'https://hotline.ua//img/tx/211/211478745_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 16 i7 10th 16/512Gb/MX350 (JYU4286CN)', 'price': '26530', 'img_url': 'https://hotline.ua//img/tx/238/238210344_s265.jpg'}
+{'model': 'HP Pavilion Gaming 15-ec0000ua Shadow Black/Chrome (9RG77EA)', 'price': '20883', 'img_url': 'https://hotline.ua//img/tx/262/262027211_s265.jpg'}
+{'model': 'GIGABYTE Aorus 15G (YC-8EE2450SH)', 'price': '77000', 'img_url': 'https://hotline.ua//img/tx/262/262128284_s265.jpg'}
+{'model': 'Alienware m17 R3 (AWM17-7616WHT-PUS)', 'price': '63694', 'img_url': 'https://hotline.ua//img/tx/266/266684760_s265.jpg'}
+{'model': 'ASUS TUF Gaming FX505DU (FX505DU-MB53)', 'price': '29055', 'img_url': 'https://hotline.ua//img/tx/223/223079446_s265.jpg'}
+{'model': 'ASUS TUF Gaming FX505DT Gold Steel (FX505DT-BQ443)', 'price': '23224', 'img_url': 'https://hotline.ua//img/tx/234/234089621_s265.jpg'}
+{'model': 'MSI GF65 Thin 9SEXR (GF659SEXR-674XUA)', 'price': '32931', 'img_url': 'https://hotline.ua//img/tx/266/266303461_s265.jpg'}
+{'model': 'Microsoft Surface Pro X Matte Black (MJX-00003, MJX-00001)', 'price': '29594', 'img_url': 'https://hotline.ua//img/tx/262/262520234_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 13 Ryzen 5 16/512GB Radeon RX Vega6 Silver (JYU4251CN)', 'price': '19340', 'img_url': 'https://hotline.ua//img/tx/238/238232975_s265.jpg'}
+{'model': 'ASUS ROG Zephyrus G14 GA401II (GA401II-BM161T)', 'price': '33253', 'img_url': 'https://hotline.ua//img/tx/258/258435334_s265.jpg'}
+{'model': 'ASUS VivoBook 15 K513EQ Hearty Gold (K513EQ-BQ026)', 'price': '25948', 'img_url': 'https://hotline.ua//img/tx/260/260827194_s265.jpg'}
+{'model': 'ASUS TUF Gaming FX505DU (FX505DU-WB72)', 'price': '27832', 'img_url': 'https://hotline.ua//img/tx/234/234089567_s265.jpg'}
+{'model': 'Dell G7 15 7500 (GN7500EHZTH)', 'price': '35587', 'img_url': 'https://hotline.ua//img/tx/267/267114963_s265.jpg'}
+{'model': 'Lenovo V14-ADA Iron Grey (82C6005DRA)', 'price': '12497', 'img_url': 'https://hotline.ua//img/tx/263/263157311_s265.jpg'}
+{'model': 'Dell XPS 15 7590 (1BWD2Z2)', 'price': '28380', 'img_url': 'https://hotline.ua//img/tx/211/211995036_s265.jpg'}
+{'model': 'Apple MacBook Pro 15" Space Gray 2019 (MV902)', 'price': '64546', 'img_url': 'https://hotline.ua//img/tx/197/197405566_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 16 Ryzen 7 16/512GB Radeon RX Vega (JYU4279CN)', 'price': '27909', 'img_url': 'https://hotline.ua//img/tx/238/238210432_s265.jpg'}
+{'model': 'Lenovo Legion 5 17IMH05 Phantom Black (82B3006MRA)', 'price': '30980', 'img_url': 'https://hotline.ua//img/tx/267/267115749_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray 2019 (MVFH2)', 'price': '28623', 'img_url': 'https://hotline.ua//img/tx/204/204414433_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Silver 2018 (MREA2, 5REA2)', 'price': '25977', 'img_url': 'https://hotline.ua//img/tx/182/182109652_s265.jpg'}
+{'model': 'HP Pavilion Gaming 16-a0032dx (2C387UA)', 'price': '29494', 'img_url': 'https://hotline.ua//img/tx/266/266300742_s265.jpg'}
+{'model': 'ASUS ROG Strix G17 G712LWS (G712LW-ES74)', 'price': '49010', 'img_url': 'https://hotline.ua//img/tx/266/266147807_s265.jpg'}
+{'model': 'Lenovo IdeaPad S145-15API Black (81UT00HFRA)', 'price': '13999', 'img_url': 'https://hotline.ua//img/tx/265/265968699_s265.jpg'}
+{'model': 'Microsoft Surface Pro 7 Platinum (VDV-00003, VDV-00001)', 'price': '24184', 'img_url': 'https://hotline.ua//img/tx/238/238236361_s265.jpg'}
+{'model': 'Lenovo V15-ADA Iron Grey (82C700AKRA)', 'price': '16919', 'img_url': 'https://hotline.ua//img/tx/265/265968708_s265.jpg'}
+{'model': 'MSI GL65 Leopard 10SDR (GL6510SDR-221US)', 'price': '33944', 'img_url': 'https://hotline.ua//img/tx/253/253627778_s265.jpg'}
+{'model': 'Acer Nitro 5 AN515-54-728C (NH.Q96AA.003)', 'price': '34433', 'img_url': 'https://hotline.ua//img/tx/266/266079759_s265.jpg'}
+{'model': 'Razer Blade 15 (RZ09-03286E22-R3U1)', 'price': '44610', 'img_url': 'https://hotline.ua//img/tx/266/266228979_s265.jpg'}
+{'model': 'Microsoft Surface Pro 7 Platinum (VDV-00003, VDV-00001)', 'price': '24184', 'img_url': 'https://hotline.ua//img/tx/238/238236361_s265.jpg'}
+{'model': 'Xiaomi Mi Notebook Pro 15.6 i5 10th 8/512GB MX350 (JYU4224CN)', 'price': '25705', 'img_url': 'https://hotline.ua//img/tx/238/238226135_s265.jpg'}
+{'model': 'Lenovo Legion 5 15ARH05H (82B1000AUS)', 'price': '38247', 'img_url': 'https://hotline.ua//img/tx/244/244664225_s265.jpg'}
+{'model': 'Dell Latitude 9410 (CF4P1)', 'price': '26207', 'img_url': 'https://hotline.ua//img/tx/266/266017990_s265.jpg'}
+{'model': 'ASUS VivoBook S15 M533IA Grey (M533IA-BQ007)', 'price': '20205', 'img_url': 'https://hotline.ua//img/tx/266/266198091_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 i7 10th 16/512Gb/MX250 Silver (JYU4268CN)', 'price': '22180', 'img_url': 'https://hotline.ua//img/tx/232/232279504_s265.jpg'}
+{'model': 'Apple MacBook Air 13" Space Gray 2020 (Z0YJ0)', 'price': '37249', 'img_url': 'https://hotline.ua//img/tx/262/262352280_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 Ryzen 5 8/512GB Radeon Vega8 Silver (JYU4205CN)', 'price': '16496', 'img_url': 'https://hotline.ua//img/tx/238/238226630_s265.jpg'}
+{'model': 'MSI GL65 Leopard 10SFK (10SFK-062US)', 'price': '41029', 'img_url': 'https://hotline.ua//img/tx/265/265237592_s265.jpg'}
+{'model': 'ASUS ROG Strix SCAR 15 G532LWS (G532LWS-DS76)', 'price': '56925', 'img_url': 'https://hotline.ua//img/tx/266/266147781_s265.jpg'}
+{'model': 'Xiaomi RedmiBook 14 II R5/8/512/W (JYU4232CN)', 'price': '19336', 'img_url': 'https://hotline.ua//img/tx/237/237354384_s265.jpg'}
+{'model': 'ASUS ROG Zephyrus M15 GU502LV (GU502LV-BI7N8)', 'price': '47322', 'img_url': 'https://hotline.ua//img/tx/266/266684761_s265.jpg'}
+{'model': 'Lenovo IdeaPad Gaming 3 15IMH05 Chameleon Blue (81Y400EERA)', 'price': '23749', 'img_url': 'https://hotline.ua//img/tx/265/265968692_s265.jpg'}
+{'model': 'ASUS ZenBook 14 UM425IA Lilac Mist (UM425IA-AM074)', 'price': '34119', 'img_url': 'https://hotline.ua//img/tx/244/244562452_s265.jpg'}
+{'model': 'HP Omen 15-dh1099nr (17N04UA)', 'price': '39190', 'img_url': 'https://hotline.ua//img/tx/261/261506507_s265.jpg'}
+{'model': 'Lenovo IdeaPad L340-15IRH Gaming Black (81LK00BBRA)', 'price': '20899', 'img_url': 'https://hotline.ua//img/tx/263/263044713_s265.jpg'}
+{'model': 'Acer Aspire 5 A515-43-R19L (NX.HG8AA.001)', 'price': '15505', 'img_url': 'https://hotline.ua//img/tx/224/224468858_s265.jpg'}
+{'model': 'Apple MacBook Pro 15" Space Gray 2018 (MR932, 5R932)', 'price': '60055', 'img_url': 'https://hotline.ua//img/tx/174/174436407_s265.jpg'}
+{'model': 'Lenovo IdeaPad 3 15IIL05 Platinum Grey (81WE00Q2RA)', 'price': '15593', 'img_url': 'https://hotline.ua//img/tx/263/263277070_s265.jpg'}
+{'model': 'HP 255 G7 (17T09ES)', 'price': '14784', 'img_url': 'https://hotline.ua//img/tx/265/265968758_s265.jpg'}
+{'model': 'Lenovo IdeaPad S145-15API Black (81UT00NRRA)', 'price': '9299', 'img_url': 'https://hotline.ua//img/tx/265/265375451_s265.jpg'}
+{'model': 'Lenovo Legion 5 17ARH05H Phantom Black (82GN002RRA)', 'price': '43049', 'img_url': 'https://hotline.ua//img/tx/266/266606377_s265.jpg'}
+{'model': 'Dell G7 7700 (GN7700EHYYH)', 'price': '54190', 'img_url': 'https://hotline.ua//img/tx/264/264996873_s265.jpg'}
+{'model': 'ASUS E410MA Peacock Blue (E410MA-EB009)', 'price': '10935', 'img_url': 'https://hotline.ua//img/tx/265/265512060_s265.jpg'}
