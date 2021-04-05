@@ -1,5 +1,5 @@
 import scrapy
-from uzhnu.items import FacultyItem
+from uzhnu.items import FacultyItem, DepartmetItem
 
 
 class FacultySpider(scrapy.Spider):
@@ -11,9 +11,21 @@ class FacultySpider(scrapy.Spider):
             fac = FacultyItem()
             fac["name"] = f.xpath(".//a/text()").extract_first()
             fac["url"] = "https://www.uzhnu.edu.ua"+f.xpath(".//a/@href").extract_first()
-            fac["processed"] = False
+            # fac["processed"] = False
             #yield fac
-            yield scrapy.Request(url=fac["url"], callback=self.parse_faculty, meta = {}, cb_kwargs={"faculty": fac})
+            yield scrapy.Request(url=fac["url"],
+                callback=self.parse_faculty, 
+                meta = {}, 
+                cb_kwargs={
+                    "faculty": fac
+                    }
+            )
 
     def parse_faculty(self, response, faculty):
-        print(faculty)
+        for dep in response.xpath('//ul[@class="departments"]//a'):
+            department = DepartmetItem()
+            department["name"] = dep.xpath("./text()").get()#.extract_first()
+            department["faculty"] = faculty
+            department["url"] = dep.xpath('./@href').getall()[0] #.extract()
+            yield department
+

@@ -11,4 +11,6 @@ class LaptopItem(scrapy.Item):
     price = scrapy.Field()
     priceUSD = scrapy.Field()
     img_url = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
 

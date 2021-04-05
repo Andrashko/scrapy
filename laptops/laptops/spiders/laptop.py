@@ -19,6 +19,7 @@ class LaptopSpider(scrapy.Spider):
                 laptop["model"] = model.strip()
                 laptop["price"] = float(price.replace("\xa0",""))
                 laptop["img_url"] = img_url
+                laptop["image_urls"] = [img_url]
                 yield laptop
            
         

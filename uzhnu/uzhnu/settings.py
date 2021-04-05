@@ -62,11 +62,11 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'uzhnu.pipelines.UzhnuPipeline': 300,
-   'uzhnu.pipelines.DuplicatFilterPipeline': 400,
-   'uzhnu.pipelines.SqlitePipeline': 500,
-}
+# ITEM_PIPELINES = {
+#    'uzhnu.pipelines.UzhnuPipeline': 300,
+#    'uzhnu.pipelines.DuplicatFilterPipeline': 400,
+#    'uzhnu.pipelines.SqlitePipeline': 500,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

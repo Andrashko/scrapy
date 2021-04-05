@@ -13,12 +13,12 @@ class MyImagesPipeline(ImagesPipeline):
     count = 0 
     def file_path(self, request, response=None, info=None, *, item=None):
         self.count += 1
-        return f"name{self.count}.jpg"
+        return f"image_{self.count}.jpg"
 
 
-class RozetkaPipeline:
-    def process_item(self, item, spider):
-        if spider.name == "laptop":
-            print("="*50)
-            print (item["files"][0]["path"].split("/")[-1])
-        return item
+# class RozetkaPipeline:
+#     def process_item(self, item, spider):
+#         if spider.name == "laptop":
+#             print("="*50)
+#             print (item["files"][0]["path"].split("/")[-1])
+#         return item

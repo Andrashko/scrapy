@@ -63,18 +63,21 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'rozetka.pipelines.MyImagesPipeline': 1,
-   'scrapy.pipelines.files.FilesPipeline': 100,
-   
-   'rozetka.pipelines.RozetkaPipeline': 300,
+  # 'scrapy.pipelines.images.ImagesPipeline': 1, 
+   #'scrapy.pipelines.files.FilesPipeline': 100,
+   'rozetka.pipelines.MyImagesPipeline':200
 }
 IMAGES_EXPIRES = 0
+FILES_EXPIRES = 1 
 IMAGES_STORE = 'images'
-IMAGES_THUMBS = {
-    'medium': (128, 128),
-}
-FILES_EXPIRES = 0
 FILES_STORE = 'files'
+
+IMAGES_THUMBS = {
+    'small': (50, 50),
+    'big': (270, 270),
+    'mysize': (1024, 1024)
+}
+
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
