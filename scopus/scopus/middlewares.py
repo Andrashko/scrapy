@@ -3,16 +3,17 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+
 from scrapy import signals
+from scrapy.http import JsonRequest
+from scrapy.utils.serialize import ScrapyJSONEncoder
+from scopus.items import ScopusItem
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
 
 
 class ScopusSpiderMiddleware:
-    # Not all methods need to be defined. If a method is not defined,
-    # scrapy acts as if the spider middleware does not modify the
-    # passed objects.
 
     @classmethod
     def from_crawler(cls, crawler):
@@ -21,20 +22,25 @@ class ScopusSpiderMiddleware:
         crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)
         return s
 
+    # робимо копію методу декодування ScrapyItem до JSON
+    encode = ScrapyJSONEncoder().encode
+    def process_spider_output(self, response, result, spider):
+        for i in result:
+            if isinstance(i, ScopusItem): #якщо павук повернув результат потрібного типу
+                yield JsonRequest( # надсилаємо JSON POST запит
+                    url = "https://localhost:7443", #на адресу сервера
+                    body=self.encode(i), # в тіло запиту записуємо декодовну item
+                    callback=spider.after_post # вказуєм обробник відповіді. Якщо нічого не вказати то обробку передасть в spider.parse
+                )
+            yield i
+
+    
     def process_spider_input(self, response, spider):
         # Called for each response that goes through the spider
         # middleware and into the spider.
 
         # Should return None or raise an exception.
         return None
-
-    def process_spider_output(self, response, result, spider):
-        # Called with the results returned from the Spider, after
-        # it has processed the response.
-
-        # Must return an iterable of Request, or item objects.
-        for i in result:
-            yield i
 
     def process_spider_exception(self, response, exception, spider):
         # Called when a spider or process_spider_input() method
